@@ -1,0 +1,28 @@
+* {
+    font-family: sans-serif;
+}
+body{
+    background-color: aquamarine;
+}
+
+.card {
+    border:1px solid black;
+    max-width: fit-content;
+    border-radius: 0.8rem;
+    padding: 1rem;
+    margin:auto;
+    align-self:center;
+    box-shadow: 1rem 1rem;
+    background-color: rgb(255, 197, 197);
+}
+
+table, th, td{
+    border:1px solid black;
+    border-spacing: 0;
+}
+h2{
+    text-align: center;
+}
+th, td {
+    padding: 1rem;
+}
