@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hallo Jasrino Selamat datang di Curug cibaliung</h1>
+ <h1>Hallo Selamat datang di Rumah! </h1>
 </body>
 </html>

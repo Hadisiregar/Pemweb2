@@ -17,6 +17,6 @@ class Peminjaman extends Model
         'mobil_id',
         'user_id',
         'lama_peminjaman',
-        'status_mobil'
+        'status_mobil',
     ];
 }

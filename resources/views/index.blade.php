@@ -1,6 +1,7 @@
-@php
-    $arrayMobil = ['SUV','Hatchbag','Sedan','MPV'];
+@php 
+    $arrayMobil = ['SUV','Hatchbag', 'Sedan', 'MPV'];
 @endphp
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +12,7 @@
 </head>
 <body>
     @foreach($arrayMobil as $mobil)
-        <h2>{{$mobil}}</h2>
+    <h2>{{ $mobil }}</h2>
     @endforeach
 </body>
 </html>

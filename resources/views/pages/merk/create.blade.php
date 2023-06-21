@@ -12,7 +12,7 @@
         <div class="card shadow">
             <div class="card-body">
                 <form action="/merk/simpan-data" method="POST">
-                    @csrf
+                    @csrf 
                     <div class="form-group">
                         <label for="">Merk Mobil</label>
                         <input type="text" class="form-control" name="merk" required>
